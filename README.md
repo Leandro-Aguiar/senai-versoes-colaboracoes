@@ -2,4 +2,7 @@
 Repositório de Versões e Colaborações
 Readme de Exemplo
 
+
 lembrei do comando: git commit
+Lembrei do comando: git status
+
